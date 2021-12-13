@@ -6,3 +6,13 @@
 - 📫 How to reach me please send email ehsanullahgit54@gmail.com
 - ✍🏽 Professional industrial developer with more than four years of experience currently working in Cartlow company
 - 🔝 Level two fiver seller and Sr. Android developer at Cartlow company
+----Techniques I follow in Android development----
+-MVVM
+-Hilt
+-Room
+-Retrofit/Volley
+-Firebase
+-Kotlin Coroutines
+-ConstraintLayouts for UI
+-JetPack Components 
+-LiveData/Flows/State Flows/SharedFlows
