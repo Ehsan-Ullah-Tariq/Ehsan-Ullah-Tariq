@@ -7,11 +7,11 @@
 - ✍🏽 Professional industrial developer with more than four years of experience currently working in Cartlow company
 - 🔝 Level two fiver seller and Sr. Android developer at Cartlow company<br />
 ----Techniques I follow in Android development----<br />
--MVVM<br />
--Hilt<br />
--Room<br />
--Retrofit/Volley<br />
--Firebase<br />
+-MVVM/MVP/MVC<br />
+-Dagger Hilt/Koin<br />
+-Room/SQlite<br />
+-Retrofit/Volley/Ktor<br />
+-Firebase Real Time Database,FireStore,Analytics<br />
 -Kotlin Coroutines<br />
 -ConstraintLayouts for UI<br />
 -JetPack Components <br />
