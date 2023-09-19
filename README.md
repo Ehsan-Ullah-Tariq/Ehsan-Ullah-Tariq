@@ -7,7 +7,7 @@
 - ✍🏽 Professional industrial developer with more than four years of experience currently working in Cartlow company
 - 🔝 Level two fiver seller and Sr. Android developer at Cartlow company<br />
 ----Techniques I follow in Android development----<br />
--MVVM/MVP/MVC<br />
+-MVVM/MVP/MVC/MVI<br />
 -Dagger Hilt/Koin<br />
 -Room/SQlite<br />
 -Retrofit/Volley/Ktor<br />
